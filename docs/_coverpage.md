@@ -1,6 +1,7 @@
 <!-- _coverpage.md -->
 # Think About AI <small>3.5</small>
 
+![logo](/docs/1png.png)
 
 >一个神奇的文档生成器
 
