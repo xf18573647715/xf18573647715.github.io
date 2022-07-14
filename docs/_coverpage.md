@@ -10,5 +10,3 @@
 ![](/docs/7.png)
 
 <!-- background color -->
-
-![color](#f0f0f0)
