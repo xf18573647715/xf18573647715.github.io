@@ -7,5 +7,5 @@
 <!-- [GitHub](https://github.com/docsify/docsify) -->
 [Get Started](README)
 
-![ ](/docs/5.png5)
+![ ](/docs/5.png)
 
