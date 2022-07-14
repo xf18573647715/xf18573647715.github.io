@@ -6,6 +6,6 @@
 
 <!-- background image -->
 
-![ ](/docs/7.png)
+![ ](/docs/8.jpg)
 
 <!-- background color -->
