@@ -3,12 +3,12 @@
 
 >一个神奇的文档生成器
 
-[GitHub](https://github.com/docsify/docsify)
-<!-- [Get Started](README) -->
+<!-- [GitHub](https://github.com/docsify/docsify) -->
+[Get Started](README)
 
 <!-- ![](logo.png) -->
 
 
 <!-- background color -->
 
-![backgroundcolor](5.png)
+![ background image](5.png)
