@@ -8,6 +8,6 @@
 [Get Started](README)
 
 <!-- ![](logo.png) -->
-![ ](/docs/5.png)
+![](/docs/5.png)
 
 <!-- background color -->
