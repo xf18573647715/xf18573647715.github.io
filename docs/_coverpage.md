@@ -8,7 +8,5 @@
 <!-- [GitHub](https://github.com/docsify/docsify) -->
 [Get Started](README)
 
-<!-- ![](logo.png) -->
 
 
-<!-- background color -->
