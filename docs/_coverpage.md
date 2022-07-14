@@ -6,7 +6,7 @@
 [GitHub](https://github.com/docsify/docsify)
 <!-- [Get Started](README) -->
 
-![](logo.png)
+<!-- ![](logo.png) -->
 
 
 <!-- background color -->
