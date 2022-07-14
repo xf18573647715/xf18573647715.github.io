@@ -1,7 +1,6 @@
 <!-- _coverpage.md -->
 # Think About AI <small>3.5</small>
 
-![ ](/docs/5.png)
 
 >一个神奇的文档生成器
 
@@ -9,6 +8,6 @@
 [Get Started](README)
 
 <!-- ![](logo.png) -->
-
+![ ](/docs/5.png)
 
 <!-- background color -->
