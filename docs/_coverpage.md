@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](logo.png)
+<!-- ![logo](logo.png) -->
 
 # Think About AI <small>3.5</small>
 
@@ -8,3 +8,7 @@
 
 [GitHub](https://github.com/docsify/docsify)
 [Get Started](README)
+
+<!-- background color -->
+
+![color](5.png)
